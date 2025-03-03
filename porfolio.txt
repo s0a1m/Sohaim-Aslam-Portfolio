@@ -413,7 +413,7 @@
             <li>🖥️ Configured, maintained, and monitored virtual machines in the cloud environment.</li>
           </ul>
         </li>
-        <li>🏢 <strong>Red Team Engineer Intern — Intern (July 2023 - September 2023)</strong>
+        <li>🏢 <strong>Red Team Engineer — Intern (July 2023 - September 2023)</strong>
           <ul>
             <li>⚙️ Designed and delivered innovative security solutions across cyber security functions with focus on threat detection and network
               security.</li>
