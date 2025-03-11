@@ -491,6 +491,11 @@
             <div class="progress-bar" style="width: 70%;">70%</div>
           </div>
         </li>
+		<li>🎨 <strong>Cloud Computing</strong>
+	      <div class="progress-container">
+            <div class="progress-bar" style="width: 80%;">80%</div>
+          </div>
+        </li>
       </ul>
     </div>
   </div>
@@ -521,7 +526,7 @@
 
   <!-- Licenses & Certifications Section -->
   <div class="dropdown" id="licensesCertifications">
-    <button onclick="toggleDropdown(this)">📜 Licenses & Certifications</button>
+    <button onclick="toggleDropdown(this)">📜 Digital Credentials & Technical Certifications</button>
     <div class="dropdown-content">
       <ul>
         <li>🔗 <strong>Microsoft (via Linkedin Learning)</strong>
@@ -537,7 +542,7 @@
             <li><a href="https://github.com/sohasl98/My-Certifications/blob/main/AI%20Tools%20Workshop%20-%20be10x9.pdf" target="_blank">🛡️ AI Tools Workshop</a></li>
           </ul>
         </li>
-        <li>🔗 <strong>AWS</strong>
+        <li>🔗 <strong>AWS Skill Builder</strong>
           <ul>
             <li><a href="https://github.com/sohasl98/My-Certifications/blob/main/AWS%20Cloud%20Quest%20-%20Cloud%20Practitioner5.pdf" target="_blank">🛡️ AWS Cloud Quest: Cloud Practitioner</a></li>
             <li><a href="https://github.com/sohasl98/My-Certifications/blob/main/AWS%20Security%20Fundamentals.JPG" target="_blank">🛡️ AWS Security Fundamentals Second Edition</a></li>
@@ -570,7 +575,7 @@
             <li><a href="https://github.com/sohasl98/My-Certifications/blob/main/CYBER_SECURITY_INTERNSHIP-Sohaim_Aslam_Azmi.pdf" target="_blank">🛡️ Cyber Security Internship Programme</a></li>
           </ul>
         </li>
-        <li>🔗 <strong>IBM</strong>
+        <li>🔗 <strong>IBM SkillsBuild</strong>
           <ul>
             <li><a href="https://github.com/sohasl98/My-Certifications/blob/main/Completion%20Certificate%20_%20SkillsBuild.pdf" target="_blank">🏆 FCF - Introduction to the Threat Landscape</a></li>
             <li><a href="https://github.com/sohasl98/My-Certifications/blob/main/Completion%20Certificate%20_%20SkillsBuild2.pdf" target="_blank">🏆 FCF - Getting Started in Cybersecurity</a></li>
@@ -579,7 +584,7 @@
             <li><a href="https://github.com/sohasl98/My-Certifications/blob/main/Cybersecurity_Fundamentals_Badge20240831-6-fnnavx.pdf" target="_blank">🏆 Cybersecurity Fundamentals</a></li>
           </ul>
         </li>
-        <li>🔗 <strong>Cisco</strong>
+        <li>🔗 <strong>Cisco Netacad</strong>
           <ul>
             <li><a href="https://github.com/sohasl98/My-Certifications/blob/main/Cyber_Threat_Management_Badge20240913-7-z6ipex.pdf" target="_blank">👨‍💼 Cyber Threat Management</a></li>
             <li><a href="https://github.com/sohasl98/My-Certifications/blob/main/Endpoint_Security_Badge20240912-7-9ma10g.pdf" target="_blank">👨‍💼 End Point Security</a></li>
@@ -611,6 +616,15 @@
         <li>🔗 <strong>Hacker Bro Technologies</strong>
           <ul>
             <li><a href="https://github.com/sohasl98/My-Certifications/blob/main/Sohaim%20Aslam%20-%20Red%20Team%20Engineer%20Internship%20%40%20Hacker%20Bro%20Technologies.pdf" target="_blank">👨‍💼 Red Team Engineer Internship Programme</a></li>
+          </ul>
+        </li>
+        <li>🏆 <strong>Professional Credentials</strong>
+          <ul>
+            <li><a href="https://www.credly.com/users/sohaim-aslam" target="_blank">🏅 Credly</a></li>
+			<li><a href="https://learn.microsoft.com/en-us/users/sohaimaslam-4557/achievements" target="_blank">🏅 Microsoft Learn</a></li>
+			<li><a href="https://www.cloudskillsboost.google/public_profiles/0a7b6f03-8a8a-48d0-9db2-c5870e527977" target="_blank">🏅 Google Cloud Skills Boost</a></li>
+			<li><a href="https://apps.cognitiveclass.ai/profile/u/sohaimaslam98" target="_blank">🏅 IBM Skills Network (cognitiveclass.ai)</a></li>
+			<li><a href="https://openprofile.dev/profile/sohasl98" target="_blank">🏅 Linux Foundation</a></li>
           </ul>
         </li>
       </ul>
