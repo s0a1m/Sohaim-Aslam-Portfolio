@@ -400,33 +400,32 @@
     <button onclick="toggleDropdown(this)">🧑‍💻 Work Experience (11 months)</button>
     <div class="dropdown-content">
       <ul>
-        <li>🏢 <strong>Cybersecurity (AICTE Approved) — Intern (April 2024 - June 2024)</strong>
+        <li>🏢 <strong>Cybersecurity (AICTE Approved) — Virtual Intern (Lucknow), Apr 2024 - Jun 2024 || DevSkillHub Training and Consultancy, Bengaluru</strong>
           <ul>
-            <li>🌐 Carried out multiple experiments to handle and mitigate threats.</li>
-            <li>⚙️ Experimented with various vulnerabilities found in devices.</li>
+            <li>⚙️ Reviewed case studies on past cyberattacks, identifying key security gaps and mitigation strategies.</li>
+			<li>⚙️ Studied and documented the OWASP Top 10 vulnerabilities, understanding their impact on web security.</li>
+			<li>⚙️ Assessed security policies and compliance frameworks like NIST, ISO 27001 and GDPR.</li>
           </ul>
         </li>
-        <li>🏦 <strong>Cloud Computing With AWS — Intern (February 2024 - April 2024)</strong>
+        <li>🏦 <strong>Cloud Computing With AWS — Virtual Intern (Lucknow), Feb 2024 - Apr 2024 || IntrnForte, Bengaluru</strong>
           <ul>
-            <li>💻 Identified opportunities to improve efficiency of existing processes through automation within a cloud infrastructure.</li>
-            <li>🖥️ Developed and implemented cloud computing strategies and best practices for multiple clients.</li>
-            <li>🖥️ Configured, maintained, and monitored virtual machines in the cloud environment.</li>
+            <li>💻 Automated infrastructure provisioning with AWS CloudFormation and Terraform.</li>
+			<li>🖥️ Configured VPCs, Subnets and security groups for secure cloud networking.</li>
+			<li>🖥️ Designed and deployed scalable cloud architectures using AWS EC2, S3, RDS and Lambda.</li>
           </ul>
         </li>
-        <li>🏢 <strong>Red Team Engineer — Intern (July 2023 - September 2023)</strong>
+        <li>🏢 <strong>Red Team Engineer — Virtual Intern (Lucknow), Jul 2023 - Sep 2023 || HackerBro Technologies, Coimbatore</strong>
           <ul>
-            <li>⚙️ Designed and delivered innovative security solutions across cyber security functions with focus on threat detection and network
-              security.</li>
-            <li>📝 Delivered recommendations for enhancements to IT security environments to prevent successful attacks.</li>
-            <li>📝 Maintained a library of known exploits and kept it up-to-date with the latest developments in cybersecurity field.</li>
+			<li>📝 Exploited common security flaws such as privilege escalation, misconfigurations, and insecure authentication in Windows and Linux machines.</li>
+			<li>📝 Gained experience with Kali Linux, command-line tools, and basic security assessments.</li>
+			<li>📝 Completed hands-on TryHackMe labs focused on penetration testing and cybersecurity fundamentals.</li>
           </ul>
         </li>
-        <li>🏢 <strong>Cybersecurity — Intern (February 2023 - March 2023)</strong>
+        <li>🏢 <strong>Cybersecurity — Virtual Intern (Lucknow), Feb 2023 - Mar 2023|| Academor, Bengaluru</strong>
           <ul>
-            <li>🔋 Performed reconnaissance on target systems and networks to gather information about the environment.</li>
-            <li>🔋 Conducted manual and automated vulnerability assessments using industry standard tools such as Nessus, Metasploit, Nmap,
-              Burp Suite.</li>
-            <li>🔋 Analyzed log files for suspicious activities related to cybersecurity events.</li>
+			<li>🔋 Conducted network and vulnerability scans using Nmap and Nikto to identify security gaps.</li>
+			<li>🔋 Experimented encryption and decryption techniques, learning about hashing, symmetric and asymmetric cryptography.</li>
+			<li>🔋 Practiced password generation, cracking, and security best practices using tools like John the Ripper and Hashcat.</li>
           </ul>
         </li>
       </ul>
@@ -592,8 +591,8 @@
             <li><a href="https://github.com/sohasl98/My-Certifications/blob/main/Junior_Cybersecurity_Analyst_Career_Path_Badge20240914-8-uabg6a.pdf" target="_blank">👨‍💼 Junior Cybersecurity Analyst Career Path</a></li>
             <li><a href="https://github.com/sohasl98/My-Certifications/blob/main/Network_Addressing_and_Basic_Troubleshooting_Badge20240916-8-5kzwx7.pdf" target="_blank">👨‍💼 Network Addressing and Basic Troubleshooting</a></li>
             <li><a href="https://github.com/sohasl98/My-Certifications/blob/main/Network_Defense_Badge20240913-7-1mrdoe.pdf" target="_blank">👨‍💼 Network Defense</a></li>
-            <li><a href="https://github.com/sohasl98/My-Certifications/blob/main/Network_Support_and_Security_Badge20240916-7-1fwfh8.pdf" target="_blank">👨‍💼 Network Security</a></li>
-            <li><a href="https://github.com/sohasl98/My-Certifications/blob/main/Networking_Basics_Badge20240907-7-id9ufh.pdff" target="_blank">👨‍💼 Network Basics</a></li>
+            <li><a href="https://github.com/sohasl98/My-Certifications/blob/main/Network_Support_and_Security_Badge20240916-7-1fwfh8.pdf" target="_blank">👨‍💼 Network Support and Security</a></li>
+            <li><a href="https://github.com/sohasl98/My-Certifications/blob/main/Networking_Basics_Badge20240907-7-id9ufh.pdf" target="_blank">👨‍💼 Networking Basics</a></li>
             <li><a href="https://github.com/sohasl98/My-Certifications/blob/main/Networking_Devices_and_Initial_Configuration_Badge20240910-7-5ut9zi.pdf" target="_blank">👨‍💼 Networking Devices and Initial Configuration</a></li>
           </ul>
         </li>
@@ -624,7 +623,7 @@
 			<li><a href="https://learn.microsoft.com/en-us/users/sohaimaslam-4557/achievements" target="_blank">🏅 Microsoft Learn</a></li>
 			<li><a href="https://www.cloudskillsboost.google/public_profiles/0a7b6f03-8a8a-48d0-9db2-c5870e527977" target="_blank">🏅 Google Cloud Skills Boost</a></li>
 			<li><a href="https://apps.cognitiveclass.ai/profile/u/sohaimaslam98" target="_blank">🏅 IBM Skills Network (cognitiveclass.ai)</a></li>
-			<li><a href="https://openprofile.dev/profile/sohasl98" target="_blank">🏅 Linux Foundation</a></li>
+			<li><a href="https://openprofile.dev/profile/sohasl98" target="_blank">🏅 The Linux Foundation</a></li>
           </ul>
         </li>
       </ul>
@@ -736,7 +735,7 @@
         <li>📧 <strong>Personal e-mail:</strong> <a href="mailto:sohaimaslam98@gmail.com">sohaimaslam98@gmail.com</a></li>
         <li>📞 <strong>Phone Number 1:</strong> <a href="tel:+97433155807">+974 3315 5807</a></li>
         <li>📞 <strong>Phone Number 2:</strong> <a href="tel:+917007252995">+91 70072 52995</a></li>
-        <li>🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/sohaim-aslam-090349173/" target="_blank">Sohaim Aslam</a></li>
+        <li>🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/sohasl98" target="_blank">Sohaim Aslam</a></li>
         <li>🐙 <strong>GitHub:</strong> <a href="https://github.com/sohasl98" target="_blank">Sohaim Aslam</a></li>
         <li>🐦 <strong>X:</strong> <a href="https://x.com/sohaim_aslam" target="_blank">Sohaim Aslam</a></li>
       </ul>
