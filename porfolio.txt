@@ -710,9 +710,9 @@
     <ul>
       <li>💻 <strong>Competitive Coding Profiles:</strong>  
         <ul>
-          <li>👩‍💻 <strong>LeetCode:</strong> <a href="https://leetcode.com/u/sohaimaslam98/">leetcode.com/u/sohaimaslam98/</a></li>
-          <li>👩‍💻 <strong>GeeksForGeeks:</strong> <a href="https://www.geeksforgeeks.org/user/sohaimaslam98/">geeksforgeeks.org/user/sohaimaslam98/</a></li>
-          <li>👩‍💻 <strong>CodeChef:</strong> <a href="https://www.codechef.com/users/sohaimaslam98/">codechef.com/users/sohaimaslam98</a></li>  
+          <li>👩‍💻 <strong>LeetCode:</strong> <a href="https://leetcode.com/u/sohaimaslam98">leetcode.com/u/sohaimaslam98</a></li>
+          <li>👩‍💻 <strong>HackerRank:</strong> <a href="https://www.hackerrank.com/profile/sohaimaslam98">geeksforgeeks.org/user/sohaimaslam98</a></li>
+          <li>👩‍💻 <strong>CodeChef:</strong> <a href="https://www.codechef.com/users/sohaimaslam98">codechef.com/users/sohaimaslam98</a></li>  
         </ul>
       </li>
       <li>🛡️ <strong>Capture The Flag Profiles:</strong>  
