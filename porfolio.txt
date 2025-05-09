@@ -441,7 +441,6 @@
           <ul>
             <li><a href="https://github.com/s0a1m/Online_Food_Ordering_System-YumYum" target="_blank">🔑 Online Food Ordering System - YumYum</a></li>
             <li><a href="https://github.com/s0a1m/Hotel_Management_System" target="_blank">🔒 Hotel Management System</a></li>
-            <li><a href="https://github.com/s0a1m/Railway-Reservation-System" target="_blank">💳 Railway Reservation System</a></li>
           </ul>
         </li>
 		<li>🔗 <strong>Mid-Sem Project</strong>
