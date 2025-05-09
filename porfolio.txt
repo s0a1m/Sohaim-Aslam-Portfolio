@@ -392,7 +392,7 @@
   <div class="about-me">
     <h2>🚀 About Me</h2>
     <p>Hi, I'm Sohaim Aslam! A passionate Computer Applications graduate student from Integral University, Lucknow with a strong background in full stack developer and programming. I have been honing my skills through various projects, internships, and academic achievements, and I am always looking for opportunities to learn and grow.</p>
-    <p>I am highly motivated to pursue a career in the tech industry, particularly in roles related to programming and web developmemt. I have a knack for problem-solving and enjoy building creative solutions to real-world challenges. Whether it is about developing applications, exploring the latest trends in technology, or participating in team-driven initiatives, I always strive to deliver high-quality work.</p>
+    <p>I am highly motivated to pursue a career in the tech industry, particularly in roles related to programming and web development. I have a knack for problem-solving and enjoy building creative solutions to real-world challenges. Whether it is about developing applications, exploring the latest trends in technology, or participating in team-driven initiatives, I always strive to deliver high-quality work.</p>
   </div>
 
   <!-- Work Experience Section -->
