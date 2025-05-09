@@ -382,17 +382,17 @@
 <header>
   <img src='https://i.postimg.cc/JnvvB1gD/Sohaim-Aslam.png' border='0' alt='Sohaim-Aslam' alt="Sohaim Aslam" class="profile-image">
   <h1>Sohaim Aslam</h1>
-  <h2 id="typewriter">🕵️‍♂️ Penetration Tester | 💻 Cybersecurity Enthusiast | 👨‍💻 Programmer</h2>
+  <h2 id="typewriter">💻 Full Stack Developer | 👨‍💻 Programmer</h2>
   <p class="quote" id="quote"></p>
-  <p>Welcome to my portfolio! I am a programmer, a cybersecurity enthusiast, and an aspiring penetration tester. I’m excited to share my work and achievements with you!</p>
+  <p>Welcome to my portfolio! I am a full stack web developer and a programmer. I’m excited to share my work and achievements with you!</p>
 </header>
 
 <div class="container">
   <!-- About Me Section -->
   <div class="about-me">
     <h2>🚀 About Me</h2>
-    <p>Hi, I'm Sohaim Aslam! A passionate Computer Applications graduate student from Integral University, Lucknow with a strong background in cybersecurity, system administration and programming. I have been honing my skills through various projects, internships, and academic achievements, and I am always looking for opportunities to learn and grow.</p>
-    <p>I am highly motivated to pursue a career in the tech industry, particularly in roles related to programming, penetration testing, and system administration. I have a knack for problem-solving and enjoy building creative solutions to real-world challenges. Whether it is about developing applications, exploring the latest trends in technology, or participating in team-driven initiatives, I always strive to deliver high-quality work.</p>
+    <p>Hi, I'm Sohaim Aslam! A passionate Computer Applications graduate student from Integral University, Lucknow with a strong background in full stack developer and programming. I have been honing my skills through various projects, internships, and academic achievements, and I am always looking for opportunities to learn and grow.</p>
+    <p>I am highly motivated to pursue a career in the tech industry, particularly in roles related to programming and web developmemt. I have a knack for problem-solving and enjoy building creative solutions to real-world challenges. Whether it is about developing applications, exploring the latest trends in technology, or participating in team-driven initiatives, I always strive to deliver high-quality work.</p>
   </div>
 
   <!-- Work Experience Section -->
@@ -450,9 +450,20 @@
     <button onclick="toggleDropdown(this)">🛠️ Skills</button>
     <div class="dropdown-content">
       <ul>
-        <li>📄 <strong>Penetration Testing</strong>
+		</li>
+        <li>🖥️ <strong>Full Stack Web Development</strong>
           <div class="progress-container">
-            <div class="progress-bar" style="width: 90%;">90%</div>
+            <div class="progress-bar" style="width: 92%;">90%</div>
+          </div>
+        </li>
+        <li>💻 <strong>Front End Development</strong>
+          <div class="progress-container">
+            <div class="progress-bar" style="width: 90%;">75%</div>
+          </div>
+        </li>
+        <li>💻 <strong>Back End Development</strong>
+          <div class="progress-container">
+            <div class="progress-bar" style="width: 90%;">80%</div>
           </div>
         </li>
         <li>🎨 <strong>Linux</strong>
@@ -467,7 +478,7 @@
         </li>
         <li>🐍 <strong>Python</strong>
           <div class="progress-container">
-            <div class="progress-bar" style="width: 95%;">95%</div>
+            <div class="progress-bar" style="width: 95%;">80%</div>
           </div>
         </li>
         <li>🗃️ <strong>Java</strong>
@@ -735,9 +746,9 @@
         <li>📧 <strong>Personal e-mail:</strong> <a href="mailto:sohaimaslam98@gmail.com">sohaimaslam98@gmail.com</a></li>
         <li>📞 <strong>Phone Number 1:</strong> <a href="tel:+97433155807">+974 3315 5807</a></li>
         <li>📞 <strong>Phone Number 2:</strong> <a href="tel:+917007252995">+91 70072 52995</a></li>
-        <li>🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/sohasl98" target="_blank">Sohaim Aslam</a></li>
-        <li>🐙 <strong>GitHub:</strong> <a href="https://github.com/sohasl98" target="_blank">Sohaim Aslam</a></li>
-        <li>🐦 <strong>X:</strong> <a href="https://x.com/sohaim_aslam" target="_blank">Sohaim Aslam</a></li>
+        <li>🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/s0a1m" target="_blank">Sohaim Aslam</a></li>
+        <li>🐙 <strong>GitHub:</strong> <a href="https://github.com/s0a1m" target="_blank">Sohaim Aslam</a></li>
+        <li>🐦 <strong>X:</strong> <a href="https://x.com/s0_a1m" target="_blank">Sohaim Aslam</a></li>
       </ul>
     </div>
   </div>
